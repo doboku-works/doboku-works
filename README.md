@@ -1,6 +1,6 @@
 ![banner](github-banner-sunset.png)
 
-# ミナモ｜土木×IT
+# minamo｜土木×IT
 
 土木の仕事をしながら、PythonやVBAで小さなツールを作っています。数量計算書のチェックなど、現場の「めんどくさい」を小さくするのがテーマです。
 
