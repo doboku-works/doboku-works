@@ -4,5 +4,4 @@
 
 土木の仕事をしながら、PythonやVBAで小さなツールを作っています。数量計算書のチェックなど、現場の「めんどくさい」を小さくするのがテーマです。
 
-- X: https://x.com/doboku_works
-- note: https://note.com/doboku_works
+- 3D/4D Demo Gallery: https://doboku-works.github.io/
